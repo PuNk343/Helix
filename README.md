@@ -1,2 +1,2 @@
 # Helix
-An open-sourced Multi-Agent problem solving framework.
+An Open-sourced Multi-Agent problem solving framework.
